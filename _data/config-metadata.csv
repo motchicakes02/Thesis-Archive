@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
 identifier,Identifier,,
-title,Title
-creator,Creator
+title,Title,
+creator,Creator,
 custodian,Custodian,
-date,Date Created
-type,Type
+date,Date Created,
+type,Type,
 format,Format,
 description,Content Description (Event),
 event_type, Event Type,true,
